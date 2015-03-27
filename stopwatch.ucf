@@ -1,0 +1,17 @@
+
+NET "DispSelect[3]" LOC = P17;
+NET "DispSelect[2]" LOC = P18;
+NET "DispSelect[1]" LOC = N15;
+NET "DispSelect[0]" LOC = N16;
+NET "SevenSegValue[0]" LOC = M13;
+NET "SevenSegValue[1]" LOC = L14;
+NET "SevenSegValue[2]" LOC = N14;
+NET "SevenSegValue[3]" LOC = M14;
+NET "SevenSegValue[4]" LOC = U18;
+NET "SevenSegValue[5]" LOC = U17;
+NET "SevenSegValue[6]" LOC = T18;
+NET "SevenSegValue[7]" LOC = T17;
+NET "CLK" LOC = V10;
+NET "BTNU" LOC = A8;
+NET "BTNS" LOC = B8;
+NET "BTND" LOC = C9;
